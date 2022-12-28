@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <title>Bumla Starter</title>
     <!-- Bulma-CSS -->
-    <link rel="stylesheet" type="text/css" href="<%= request.getContextPath() %>/webjars/bulma/0.9.3/css/bulma.min.css" />
+    <link rel="stylesheet" type="text/css" href="<%= request.getContextPath() %>/webjars/bulma/0.9.4/css/bulma.min.css" />
     <link rel="stylesheet" type="text/css" href="<%= request.getContextPath() %>/css/style.css" />
-    <script src="<%= request.getContextPath() %>/webjars/htmx.org/1.6.1/dist/htmx.min.js"></script>
+    <script src="<%= request.getContextPath() %>/webjars/htmx.org/1.8.4/dist/htmx.min.js"></script>
 </head>
